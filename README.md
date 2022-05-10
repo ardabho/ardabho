@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardabho
 - 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning Python and Swift
+- 🌱 I’m currently learning Swift and Python
 - 📫 How to reach me through github
 
 <!---
