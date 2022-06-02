@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardabho&layout=compact)](https://github.com/ardabho/github-readme-stats)
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/evren-ustun/">
+  <a href="https://www.linkedin.com/in/arda-buyukhatipoglu/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
