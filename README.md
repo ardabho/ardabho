@@ -14,8 +14,3 @@ You can click the Preview link to take a look at your changes.
 ### How to reach me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-006192?style=flat-quare&labelColor=006192&logo=LinkedIn&logoColor=white&link=link)](https://www.linkedin.com/in/arda-büyükhatipoğlu/)
-
-<a target="_blank" href="mailto:arda0010@gmail.com">
-  <img align="left" alt="Gmail" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
