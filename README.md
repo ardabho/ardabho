@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardabho
 - 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning Swift and Python
+- 🌱 I’m currently learning Swift and UIKit
 
 <!---
 ardabho/ardabho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
