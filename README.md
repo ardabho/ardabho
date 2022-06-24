@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardabho
+- 👋 Hi, I’m Arda
 - 👀 I’m interested in iOS Application Development
 - 🌱 I’m currently learning Swift and UIKit
 
