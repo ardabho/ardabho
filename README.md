@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arda
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning SwiftUI and React Native
+- 👀 I’m an iOS Developer
 
 <!---
 ardabho/ardabho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
